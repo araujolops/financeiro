@@ -5,7 +5,8 @@ Financeiro (Aula de Hugo Vasconcelos - Udemy)
  
 Esse está sendo o meu primeiro projeto em PHP baseado em um curso ministrado por Hugo vasconcelos da Udemy.
 Pretendo migrar para esse protótipo parte de meu ERP Financeiro desenvolvido em Delphi ao longo deses mais de 30 anos.
-- Minha idéia conforme form aperfeiçoando meu treinamento será converter ele para um padrão MVC.
+- Minha idéia conforme for aperfeiçoando meu treinamento será converter ele para um padrão MVC.
+- Espero contar com a comunidade para aperfeiçoar esse projeto.
 
 ## Executando a aplicação
 
