@@ -2,4 +2,4 @@
 * text=auto
 $ cat .gitattributes
 painel-adm/* linguist-vendored
-./ linguist-vendored=true
+.php linguist-vendored=true
