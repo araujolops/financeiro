@@ -1,5 +1,5 @@
 # Financeiro
-Contas a Pagar e Receber (Aula de Hugo Vasconcelos - Udemy)
+Financeiro (Aula de Hugo Vasconcelos - Udemy)
 
 # Sistema Financeiro
  
