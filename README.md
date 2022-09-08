@@ -12,7 +12,7 @@ Pretendo migrar para esse protótipo parte de meu ERP Financeiro desenvolvido em
 
 criar uma pasta em localhost chamada financeiro.
 
-## Contaúdo da Pasta .doc/.dados
+## Conteúdo da Pasta .doc/.dados
 Nessa pasta encontam-se os arquivos para criação do banco já com seus relacionamentos.
 - financeiro.mwb -> Diagrama das tabelas para ser usado/desenhado em MySql Workbench
 - financeiro.pdf -> Diagrama em pdf
